@@ -1,0 +1,9 @@
+**Abstract**
+
+The Expense Manager System is a desktop-based application developed using Java with Swing for the graphical user interface and MySQL as the backend database. The primary objective of this project is to provide a simple and efficient way for users to record, manage, and track their daily expenses.
+
+The system allows users to input expense details such as name and amount through an interactive interface. These details are stored in a MySQL database using JDBC connectivity, ensuring reliable data storage and retrieval. The application is designed using a modular structure that separates the model, data access, and user interface layers, making the system easy to maintain and extend.
+
+This project helps users reduce the complexity of manual expense tracking and minimizes calculation errors. It provides a clear overview of expenses, helping users understand their spending patterns and improve financial management.
+
+The Expense Manager System can be further enhanced by adding features like expense categories, filtering, reporting, and graphical analysis. Overall, the project demonstrates the integration of Java Swing and database technologies to build a practical, user-friendly desktop application for everyday financial tracking.
